@@ -1,5 +1,5 @@
 # Web Image Scraper
-一个高效、健壮的网页图片抓取工具，支持动态加载内容和反爬虫策略。
+一个高效健壮的网页图片抓取工具，支持动态加载内容和反爬虫策略。
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-orange)](https://www.selenium.dev/)
